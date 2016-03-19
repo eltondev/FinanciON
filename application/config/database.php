@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'wwwelton_order';
-$db['default']['password'] = 'sal@1216699';
-$db['default']['database'] = 'wwwelton_order';
+$db['default']['username'] = 'USUARIO;
+$db['default']['password'] = 'SENHA';
+$db['default']['database'] = 'BANCO_DE_DADOS';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
