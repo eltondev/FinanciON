@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://SEU_SITE/financion';
+$config['base_url']	= 'http://SUA_URL/financion';
 
 /*
 |--------------------------------------------------------------------------
