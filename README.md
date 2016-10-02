@@ -1,12 +1,14 @@
 # FinanciON
 
+FinanciON é um sistema básico para controle financeiro e Ordens de Serviço feito com code Iginiter.
+
 - Requires at least: 2.0
 - Tested up to: 2.1
 - Stable tag: 2.10
 - License: GPLv2 or later
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-FinanciON é um sistema básico para controle financeiro e Ordens de Serviço feito com code Iginiter.
+
 
 #### Informações
 
