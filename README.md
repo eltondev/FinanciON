@@ -1,5 +1,11 @@
 # FinanciON
 
+Requires at least: 2.0
+Tested up to: 2.1
+Stable tag: 2.10
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 FinanciON é um sistema básico para controle financeiro e Ordens de Serviço feito com code Iginiter.
 
 #### Informações
@@ -45,4 +51,6 @@ Caso tenha alguma dificuldade em usar o sistema, abra uma issue com a duvida, pr
 
 ###Faça uma doação
 
-Contribua com este projeto [clique aqui](http://www.eltondev.com.br/doacao/) para doar!
+Contribua com este projeto, caso queira doar envie para o Paypal: eltondeveloper@gmail.com
+
+
